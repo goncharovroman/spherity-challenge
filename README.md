@@ -1,5 +1,7 @@
 # Spherity Challenge
 
+demo: https://polite-bush-0ee6fe703.5.azurestaticapps.net/
+
 ## Instructions for Running the Application Locally
 
 1. **Clone the repository:**
