@@ -3,7 +3,7 @@ import { BatteryCredential } from '../../types';
 import { useBatteryCredentials } from './hooks';
 import { Result, Table } from 'antd';
 import { CredentialTag } from '../../components/credential-tag';
-import { CREDENTIAL_NAMES, CREDENTIAL_TYPES } from '../../constants';
+import { CREDENTIAL_NAMES } from '../../constants';
 import { BatteryCredentialInfo } from './battery-credential-info';
 import { Did } from '../../components/did';
 import { BatteryCredentialsSkeleton } from './battery-credentials-skeleton';
